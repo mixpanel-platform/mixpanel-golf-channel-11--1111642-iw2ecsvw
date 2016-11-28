@@ -28,7 +28,7 @@
 
 .mp-table-row-item {
     height: 55px;
-    line-height: 55px;
+/*     line-height: 55px; */
     font-family: Open Sans,sans-serif;
     font-weight: 600;
 }
